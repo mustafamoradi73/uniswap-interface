@@ -1,5 +1,5 @@
 {
-  "background_color": "#fff",
+  "background_color": "#jjj",
   "display": "standalone",
   "homepage_url": "https://app.uniswap.org",
   "icons": [
@@ -20,5 +20,5 @@
   "name": "mosioswap",
   "short_name": "mosioswap",
   "start_url": ".",
-  "theme_color": "#ff007a"
+  "theme_color": "#0000"
 }
